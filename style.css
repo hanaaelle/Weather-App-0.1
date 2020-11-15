@@ -1,0 +1,42 @@
+body {
+  font-family: "Bebas Neue", cursive;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+h1 {
+  color: black;
+  float: left;
+}
+
+h2 i {
+  color: white;
+  font-size: 80px;
+}
+h2 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 100px;
+}
+
+h4 {
+  display: block;
+  float: right;
+  padding: 13px;
+  margin: 0px;
+}
+p {
+  float: left;
+}
+
+.navbar {
+  max-width: 300px;
+  display: block;
+  float: right;
+}
+
+.btn-outline-success {
+  color: blueviolet;
+  outline: #a18cd1;
+}
